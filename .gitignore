@@ -1,6 +1,3 @@
-# Gather API Key
-api-key.*
-
 # Logs
 logs
 *.log
